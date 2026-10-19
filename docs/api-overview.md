@@ -47,7 +47,7 @@ The base URL identifies the root address to which clients send API requests.
 
 For example, an API reference may use a placeholder such as:
 
-`https://api.example.com/v1`
+`https://api.contentmg.com/v1`
 
 This is an illustrative placeholder, not a verified endpoint for a deployed service.
 
